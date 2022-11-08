@@ -1,0 +1,14 @@
+proveedor primero
+donado 1234
+pimenton picante,4
+nuez moscada,6
+
+proveedor segundo
+pimenton picante,1
+manises,3
+
+proveedor tercero
+pimenton picante,1
+manises,3
+
+
